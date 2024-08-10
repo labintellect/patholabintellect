@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class PatholabintellectApplication {
-
+	//start application
 	public static void main(String[] args) {
 		SpringApplication.run(PatholabintellectApplication.class, args);
 	}
